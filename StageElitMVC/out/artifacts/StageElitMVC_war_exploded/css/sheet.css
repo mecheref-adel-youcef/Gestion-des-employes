@@ -1,0 +1,57 @@
+.bgimage{
+
+	background-image: url('../images/chicago.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px; 
+}
+
+.myimg{
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	border : 2px solid #e9ecef;
+}
+
+
+.items{
+	text-align: center;
+}
+
+
+.mycard {
+	width: 17rem;
+  	background: #00001f;
+  	 box-shadow:0 20px 50px rgba(0,0,0,.1);
+    border-radius:10px;
+    transition:0.5s;  
+
+}
+
+.mycard:hover{
+	box-shadow:0 30px 70px rgba(0,0,0,.2);  
+
+}
+
+
+.mycard hr{
+	border: 0.6px #ffffff solid;
+	
+}
+
+
+.mycolor{
+	color: #ffffff;
+}
+
+.myadd{
+
+	width: 100px;height: 100px;
+	 box-shadow:0 20px 50px rgba(0,0,0,.1);
+    border-radius:100%;
+    transition:0.5s;  
+	}
+
+.myadd:hover{
+	box-shadow:0 30px 70px rgba(0,0,0,.2);  
+}
